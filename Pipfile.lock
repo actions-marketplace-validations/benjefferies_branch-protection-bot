@@ -181,12 +181,12 @@
         },
         "configargparse": {
             "hashes": [
-                "sha256:d249da6591465c6c26df64a9f73d2536e743be2f244eb3ebe61114af2f94f86b",
-                "sha256:e7067471884de5478c58a511e529f0f9bd1c66bfef1dea90935438d6c23306d1"
+                "sha256:79c2ddae836a1e5914b71d58e4b9adbd9f7779d4e6351a637b7d2d9b6c46d3d9",
+                "sha256:8b586a31f9d873abd1ca527ffbe58863c99f36d896e2829779803125e83be4b6"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.5'",
-            "version": "==1.7"
+            "markers": "python_version >= '3.6'",
+            "version": "==1.7.1"
         },
         "cryptography": {
             "hashes": [
